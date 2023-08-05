@@ -6,7 +6,13 @@
 # variabel
 
 <ul>
-  <li>var</li>
+  <li>
+    <h1>var</h1>
+  </li>
+  <p>Skema penggunaan keyword var:</p>
+  <code>var <nama-variabel> <tipe-data>
+var <nama-variabel> <tipe-data> = <nilai>
+</code>
   <li>:=</li>
   <li>const</li>
   <li>_</li>
