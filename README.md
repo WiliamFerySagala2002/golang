@@ -8,12 +8,7 @@
 <ul>
   <li>
     <h1>var</h1>
+    <p>Skema penggunaan keyword var:</p>
+    <img src="/src/code.png" alt="Code" />
   </li>
-  <p>Skema penggunaan keyword var:</p>
-  <code>var <nama-variabel> <tipe-data>
-var <nama-variabel> <tipe-data> = <nilai>
-</code>
-  <li>:=</li>
-  <li>const</li>
-  <li>_</li>
 </ul>
