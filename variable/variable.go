@@ -9,7 +9,13 @@ func main() {
 	var name string = "Wiliam Sagala"
 	fmt.Println(name)
 
-	// bisa di ubah nilai nya
+	fmt.Println("<----dapat ubah nilai nya---->")
+	name = "Wiliam Fery Sagala"
+	fmt.Println(name)
+
+	fmt.Println("<----Penggunaan keyword := ----->")
+	fullName := name
+	fmt.Println("fullName := ", fullName)
 
 }
 
