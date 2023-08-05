@@ -4,3 +4,10 @@
 </p>
 
 # variabel
+
+<ul>
+  <li>var</li>
+  <li>:=</li>
+  <li>const</li>
+  <li>_</li>
+</ul>
