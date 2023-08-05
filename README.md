@@ -9,6 +9,6 @@
   <li>
     <h1>var</h1>
     <p>Skema penggunaan keyword var:</p>
-    <img src="/src/code.png" alt="Code" />
+    <img src="/src/code.png" alt="Code" width="50%"/>
   </li>
 </ul>
